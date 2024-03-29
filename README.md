@@ -10,7 +10,7 @@ class Travis:
 class Attributes(Travis):
     @property
     def contact(self) -> Tuple[str, str, str]:
-        email    = "lanceurfloko@gmail.com"
+        email = "lanceurfloko@gmail.com"
 	    
 	    return email
 
